@@ -7,7 +7,7 @@ Automated hitter reports built from TrackMan data. The script creates cumulative
 Each page shows:
 - **Overall Stats:** AVG, OBP, SLG, OPS, wOBA and HR by pitcher handedness
 - **Spray Chart** GB / LD / FB / PU, pull / middle / oppo visualized on a spray chart and described in a table
-- ***Contact Quality:** Exit velocities and hard-hit rate accompanied by a zone showing damage by location
+- **Contact Quality:** Exit velocities and hard-hit rate accompanied by a zone showing damage by location
 - **Swing Decisions:** BB%, K%, chase rate, and in-zone swing rate accompanied by a zone showing whiff by location
 - **Pitch Type Splits:** Performance against fastballs, breaking balls and offspeed pitches from each hand
 
